@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\atm\atm\bin\Debug\atm.exe.config
+C:\Users\ASUS\source\repos\atm\atm\bin\Debug\atm.exe
+C:\Users\ASUS\source\repos\atm\atm\bin\Debug\atm.pdb
+C:\Users\ASUS\source\repos\atm\atm\obj\Debug\atm.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\atm\atm\obj\Debug\atm.FrmCuentaFree.resources
+C:\Users\ASUS\source\repos\atm\atm\obj\Debug\atm.FrmCuentaJr.resources
+C:\Users\ASUS\source\repos\atm\atm\obj\Debug\atm.Properties.Resources.resources
+C:\Users\ASUS\source\repos\atm\atm\obj\Debug\atm.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\atm\atm\obj\Debug\atm.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\atm\atm\obj\Debug\atm.exe
+C:\Users\ASUS\source\repos\atm\atm\obj\Debug\atm.pdb
+C:\Users\ASUS\source\repos\atm\atm\obj\Debug\atm.exe.config
+C:\Users\ASUS\source\repos\atm\atm\obj\Debug\atm.FrmCuentaEm.resources
