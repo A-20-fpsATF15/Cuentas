@@ -76,7 +76,7 @@ namespace atm
 
         private void btnEstado_Click(object sender, EventArgs e)
         {
-            MessageBox.Show(@"Nombre: " + cuenta.Nombre + "\n" + "Numero de cuenta: " + cuenta.NumCuenta + "\n" + "Saldo: $ " + cuenta.Saldo + "\n" + "RFC: " + cuenta.RFC);
+            MessageBox.Show("Nombre: " + cuenta.Nombre + "\n" + "Numero de cuenta: " + cuenta.NumCuenta + "\n" + "Saldo: $ " + cuenta.Saldo + "\n" + "RFC: " + cuenta.RFC);
         }
 
         private void txtCantidad_Leave(object sender, EventArgs e)
